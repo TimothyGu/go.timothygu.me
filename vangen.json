@@ -1,0 +1,9 @@
+{
+  "domain": "go.timothygu.me",
+  "repositories": [
+    {
+      "prefix": "math",
+      "url": "https://github.com/TimothyGu/go-math"
+    }
+  ]
+}
