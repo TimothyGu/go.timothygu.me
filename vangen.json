@@ -3,6 +3,18 @@
   "repositories": [
     {
       "prefix": "math",
+      "subs": [
+        "i16math",
+        "i32math",
+        "i64math",
+        "i8math",
+        "imath",
+        "u16math",
+        "u32math",
+        "u64math",
+        "u8math",
+        "umath"
+      ],
       "url": "https://github.com/TimothyGu/go-math"
     }
   ]
