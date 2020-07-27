@@ -15,6 +15,11 @@
         "u8math",
         "umath"
       ],
+      "source": {
+        "home": "https://github.com/TimothyGu/go-math",
+        "dir": "https://github.com/TimothyGu/go-math/tree/main{/dir}",
+        "file": "https://github.com/TimothyGu/go-math/blob/main{/dir}/{file}#L{line}"
+      },
       "url": "https://github.com/TimothyGu/go-math"
     }
   ]
