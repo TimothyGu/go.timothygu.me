@@ -2,6 +2,25 @@
   "domain": "go.timothygu.me",
   "repositories": [
     {
+      "prefix": "downtomeet",
+      "subs": [
+        "server/cmd/down-to-meet-server",
+        "server/db",
+        "server/impl",
+        "server/impl/nonce",
+        "server/impl/responders",
+        "server/models",
+        "server/restapi",
+        "server/restapi/operations"
+      ],
+      "source": {
+        "home": "https://github.com/downToMeet/downToMeet",
+        "dir": "https://github.com/downToMeet/downToMeet/tree/main{/dir}",
+        "file": "https://github.com/downToMeet/downToMeet/blob/main{/dir}/{file}#L{line}"
+      },
+      "url": "https://github.com/downToMeet/downToMeet"
+    },
+    {
       "prefix": "math",
       "subs": [
         "i16math",
