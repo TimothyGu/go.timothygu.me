@@ -62,6 +62,19 @@
         "file": "https://github.com/TimothyGu/go-math/blob/main{/dir}/{file}#L{line}"
       },
       "url": "https://github.com/TimothyGu/go-math"
+    },
+    {
+      "prefix": "tools/cr",
+      "subs": [
+        "cmd/remove_base_macros",
+        "cmd/remove_disallow"
+      ],
+      "source": {
+        "home": "https://github.com/TimothyGu/crtools",
+        "dir": "https://github.com/TimothyGu/crtools/tree/main{/dir}",
+        "file": "https://github.com/TimothyGu/crtools/blob/main{/dir}/{file}#L{line}"
+      },
+      "url": "https://github.com/TimothyGu/crtools"
     }
   ]
 }
